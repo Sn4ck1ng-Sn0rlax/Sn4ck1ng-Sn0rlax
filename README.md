@@ -9,7 +9,7 @@ IT & Security | Nairobi, Kenya
 ### A bit about me
 
 - Several years across IT and operations, currently deepening my focus on security operations and GRC
-- MBA| BSc Information Systems & Technology
+- MBA | BSc Information Systems & Technology
 - ISC2 CC | IBM Cybersecurity Compliance Framework, Standards & Regulations
 - Currently working through CompTIA Network+ and Hack The Box's Junior Cybersecurity Analyst path
 
