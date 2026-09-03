@@ -32,4 +32,4 @@ IT & Security | Nairobi, Kenya
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/johnwndungu/) · johnkwndungu@gmail.com
+[LinkedIn](https://www.linkedin.com/in/johnwndungu/) ·
